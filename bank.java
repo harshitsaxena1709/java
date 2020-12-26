@@ -2,7 +2,7 @@ public class bank{
     public static void main(String args[])
     {
         bankfunc cal =new bankfunc();
-        cal.deposit(1000);
+        cal.deposit(1000);  
         System.out.println("Rs 1000 Amount Deposited");
         System.out.println("Your Balance is:"+cal.checkbalance());
         cal.withdraw(500);
