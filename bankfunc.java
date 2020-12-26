@@ -4,6 +4,9 @@ public class bankfunc{
     {     if(amt>=op1){
           amt=amt-op1;
     }
+
+//bygyi
+
         //return op1+op2;
     }
     public void deposit(int op1)
